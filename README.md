@@ -1,3 +1,5 @@
+![Demo](./.github/demo.gif)
+
 # Nuxt Dashboard Starter
 
 > A minimal Nuxt 3 dashboard starter with everything you need for user authentication and protected dashboard pages.
