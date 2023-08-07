@@ -1,3 +1,5 @@
+![Demo](https://i.ibb.co/0BnfCJW/ezgif-com-video-to-gif-2.gif)
+
 # Nuxt Dashboard Starter
 
 > A minimal Nuxt 3 dashboard starter with everything you need for user authentication and protected dashboard pages.
