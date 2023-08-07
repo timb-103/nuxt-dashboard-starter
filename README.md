@@ -1,4 +1,4 @@
-![Demo](./.github/demo.gif)
+![Demo](https://i.ibb.co/0BnfCJW/ezgif-com-video-to-gif-2.gif)
 
 # Nuxt Dashboard Starter
 
